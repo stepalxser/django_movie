@@ -131,3 +131,5 @@ dmypy.json
 django_movie/settings.py
 
 .idea/
+
+media/
