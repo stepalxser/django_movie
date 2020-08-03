@@ -390,7 +390,7 @@ li > a:only-child:after {
     -ms-background-size: cover;
     background-size: cover;
     position: relative;
-    min-height: 20em;
+    min-height: 20em ;
 }
 
 .main-banner.inner {
