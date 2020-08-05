@@ -133,3 +133,5 @@ django_movie/settings.py
 .idea/
 
 media/
+static/ckeditor/
+static/admin/
